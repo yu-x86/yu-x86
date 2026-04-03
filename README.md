@@ -37,10 +37,9 @@ which eventually pushed me toward backend development.
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
 <br>![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
 <br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)<br>
-JDBC **(LEARNING)** <br>
-JPA **(LEARNING)** <br>
-NoSQL **(LEARNING)** <br>
-Springboot **(LEARNING)** <br>
+JDBC<br>
+JPA<br>
+Springboot<br>
 
 ### Currently
 - Getting better at Java for backend development  
